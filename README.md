@@ -29,7 +29,7 @@ cd CyberTrend-Radar-Powered-by-Reddit
 
 Skript ausführen:
 
-    ./CyberTrendRadar.ps1
+    ./RedditTrendScanner.ps1
 
 Nutzung
 
